@@ -38,7 +38,7 @@ OctoAcme projects follow a structured five-phase lifecycle:
 ### Project Phases
 
 - [OctoAcme Project Initiation](./octoacme-project-initiation.md) — Validate business need, align stakeholders, and decide to move into planning
-- [OctoAcme Project Planning](./octoacme-project-planning.md) ��� Create a prioritized backlog, define scope, and plan releases
+- [OctoAcme Project Planning](./octoacme-project-planning.md) — Create a prioritized backlog, define scope, and plan releases
 - [OctoAcme Execution & Tracking](./octoacme-execution-and-tracking.md) — Manage day-to-day execution, quality, and progress tracking
 - [OctoAcme Release & Deployment](./octoacme-release-and-deployment.md) — Standardize release processes and reduce deployment risk
 - [OctoAcme Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) — Capture learnings and drive iterative improvements
